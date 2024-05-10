@@ -1,5 +1,5 @@
 import axios, { AxiosInstance } from 'axios';
-import { Service, Inject, Container } from 'typedi';
+import { Service, Inject} from 'typedi';
 import { DentalInquiry, DentalInquiryResponse } from './types';
 
 @Service()
